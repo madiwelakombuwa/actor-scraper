@@ -1,0 +1,20 @@
+{
+  "name": "facebook-dashboard",
+  "version": "1.0.0",
+  "description": "Facebook page scraper dashboard deployed on Cloudflare Pages",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scraper.mjs",
+    "serve": "npx serve public -l 3000",
+    "dev": "wrangler pages dev public --port 8788",
+    "deploy": "wrangler pages deploy public --project-name=facebook-dashboard",
+    "build": "node scripts/scraper.mjs && cp data/page-data.json public/"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "wrangler": "^3.22.0"
+  }
+}

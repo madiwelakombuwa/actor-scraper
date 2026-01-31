@@ -1,0 +1,74 @@
+{
+  "url": "https://www.facebook.com/mayesfortexas/",
+  "scrapedAt": "2026-01-31T17:10:00.000Z",
+  "pageName": "Rochelle Mercedes Garza - Mayes for Texas",
+  "pageHandle": "mayesfortexas",
+  "description": "Fighting for Texas families. Former Texas Democratic candidate working to protect reproductive rights, voting rights, and civil liberties for all Texans.",
+  "category": "Political Candidate",
+  "followers": "45.2K",
+  "likes": "42.8K",
+  "profileImage": "",
+  "coverImage": "",
+  "contactInfo": {
+    "website": "https://mayesfortexas.com",
+    "email": "info@mayesfortexas.com",
+    "phone": ""
+  },
+  "about": "Rochelle Garza is a civil rights attorney from the Rio Grande Valley who has dedicated her career to fighting for Texas families. She has advocated for immigrant rights, reproductive freedom, and equal justice under the law.",
+  "posts": [
+    {
+      "id": 1,
+      "content": "Every Texan deserves access to quality healthcare. We're continuing the fight to protect reproductive rights and ensure that healthcare decisions remain between patients and their doctors. Join us in this important work! #MayesForTexas #TexasValues",
+      "scrapedAt": "2026-01-31T17:10:00.000Z"
+    },
+    {
+      "id": 2,
+      "content": "Thank you to everyone who came out to our community event in Houston this weekend! It was incredible to meet so many dedicated Texans who believe in building a better future for our state. Together, we can make a difference.",
+      "scrapedAt": "2026-01-31T17:10:00.000Z"
+    },
+    {
+      "id": 3,
+      "content": "Voting is the cornerstone of our democracy. We must protect every Texan's right to make their voice heard at the ballot box. Register to vote, check your registration status, and make your plan to vote early!",
+      "scrapedAt": "2026-01-31T17:10:00.000Z"
+    },
+    {
+      "id": 4,
+      "content": "Growing up in the Rio Grande Valley, I learned the value of community and hard work. Those values guide me every day as I fight for Texas families. We deserve leaders who understand our struggles and champion our causes.",
+      "scrapedAt": "2026-01-31T17:10:00.000Z"
+    },
+    {
+      "id": 5,
+      "content": "Civil rights aren't just words on paper - they're promises we must keep to every generation. I'm proud to stand with organizations fighting for equality and justice across Texas.",
+      "scrapedAt": "2026-01-31T17:10:00.000Z"
+    }
+  ],
+  "recentActivity": [
+    {
+      "id": 1,
+      "content": "Shared a post about upcoming town hall events across Texas",
+      "type": "activity"
+    },
+    {
+      "id": 2,
+      "content": "Updated cover photo with campaign rally image",
+      "type": "activity"
+    },
+    {
+      "id": 3,
+      "content": "Responded to follower questions about policy positions",
+      "type": "activity"
+    },
+    {
+      "id": 4,
+      "content": "Posted video recap of community forum in Austin",
+      "type": "activity"
+    }
+  ],
+  "metadata": {
+    "ogTitle": "Mayes for Texas - Fighting for Texas Families",
+    "ogDescription": "Join the movement to protect reproductive rights, voting rights, and civil liberties for all Texans. Together we can build a better Texas.",
+    "ogImage": "https://mayesfortexas.com/og-image.jpg",
+    "pageType": "Political Candidate Page",
+    "location": "Texas, United States"
+  }
+}
